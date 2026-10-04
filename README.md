@@ -80,7 +80,7 @@ The section contains examples of different foods.
 
 ### Screenshot
 
-![Task 2](2 (2).png)
+![Task 2](2(2).png)
 
 ---
 
