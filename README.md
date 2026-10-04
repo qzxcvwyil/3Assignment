@@ -36,7 +36,7 @@ I used CSS Media Queries to change the font sizes depending on the screen width:
 
 ### Screenshot
 
-![Task 0](screenshots/task0.png)
+![Task 0](screenshots/0.png)
 
 ---
 
@@ -54,7 +54,7 @@ This part uses CSS Flexbox and Media Queries without Bootstrap.
 
 ### Screenshot
 
-![Task 1](screenshots/task1.png)
+![Task 1](screenshots/1.png)
 
 ---
 
@@ -80,7 +80,7 @@ The section contains examples of different foods.
 
 ### Screenshot
 
-![Task 2](screenshots/task2.png)
+![Task 2](screenshots/2 (2).png)
 
 ---
 
@@ -100,7 +100,7 @@ On smaller screens, the navigation links collapse into a hamburger menu using th
 
 ### Screenshot
 
-![Task 3](screenshots/task3.png)
+![Task 3](screenshots/3 (2).png)
 
 ---
 
@@ -146,7 +146,7 @@ The page also contains a footer at the bottom of the website.
 
 ### Screenshot
 
-![Task 4](screenshots/task4.png)
+![Task 4](screenshots/4 (2).png)
 
 ---
 
