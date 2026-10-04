@@ -80,7 +80,7 @@ The section contains examples of different foods.
 
 ### Screenshot
 
-![Task 2](2_(2).png)
+![Task 2](22.png)
 
 ---
 
@@ -100,7 +100,7 @@ On smaller screens, the navigation links collapse into a hamburger menu using th
 
 ### Screenshot
 
-![Task 3](3 (2).png)
+![Task 3](32.png)
 
 ---
 
@@ -146,7 +146,7 @@ The page also contains a footer at the bottom of the website.
 
 ### Screenshot
 
-![Task 4](4 (2).png)
+![Task 4](42.png)
 
 ---
 
